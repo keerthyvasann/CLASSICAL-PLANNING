@@ -1,4 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+
+Name - Keerthyvasan G
+Register number: 212224210011
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
